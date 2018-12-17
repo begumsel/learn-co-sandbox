@@ -6,4 +6,4 @@ var myNote = "Get milk"
  
 myNote = "Get cookies"
 
-console.log('myNote');
+console.log(myNote);
