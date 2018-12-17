@@ -1,2 +1,2 @@
-var word = 'bird'
+word = 'bird'
 
