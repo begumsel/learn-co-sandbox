@@ -4,6 +4,6 @@ var myNote = "Get milk"
  
 // later on
  
-myNote = "Get cookies"
+var myNote = "Get cookies"
 
 console.log(myNote);
